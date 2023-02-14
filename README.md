@@ -39,6 +39,8 @@
 1. 网上搜一下
 2. 或者关注微信公众号: 折腾几下， 有教程和共享的免费帐号
 
+# chatGPT 交流
+1. 添加微信 mainentry 交流，可以拉进 chatGPT 的交流群
 
 # Disclaimers
 这不是官方的 OpenAI 产品。这是一个个人项目，与 OpenAI 没有任何关联。
